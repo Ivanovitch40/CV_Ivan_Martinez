@@ -10,5 +10,14 @@
 ## Formación académica
 
 * Graduado en Educación secundaria obligatoria (ESO), (IES Marenostrum, 2020-2021)
+* Técnico en Operaciones de Laboratorio Grado Medio.
+
+## Idiomas
+
+* A2. Ingles
+* B1. Valenciano
+* Castellano Lengua materna
+
+## Habilidades / Conocimientos
 
 * 
