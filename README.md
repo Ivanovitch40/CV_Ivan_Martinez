@@ -42,6 +42,6 @@
 
 * Me gusta mucho limpiar en mis tiempos libres, el orden en general.
 Escucho música la gran parte de mi tiempo y libre y la compongo.
-Salír a tomar el aire o bien jugar un rato a la consola. 
+Salír a tomar el aire o bien jugar un rato a la consola. Leer sobre la historia de Grecia o Egipto.
 
 
