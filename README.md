@@ -26,11 +26,12 @@
 ## Habilidades / Conocimientos
 
 * Compositor de musíca electrónica (DJ)
-* Informática de Oficina. Ofimatica.
+* Informática de Oficina. Ofimática.
 * Word (Nivel Avanzado), Excel (Nivel Usuario), Powerpoint (Nivel Avanzado) y Access (Nivel Usuario)
 * Analista de jugadas en linia. (Tanto competitivo como amistoso)
 * Atento, trato con la gente, atención al cliente (Ventas, asistencia, dudas)
-* Cocina, platos sueltos o con un poco de dificultad
+* Cocina, platos sueltos o con un poco de dificulta
+* [Link de mis trabajos de ofimática](trabajos.md)
 
 ## Proyectos personales
 
