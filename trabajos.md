@@ -1,15 +1,22 @@
 # Trabajos realizados por Iván Martínez Cebrían
 
-## Aquí dejo alguna muestra de mis trabajos
+## Practica sobre ordenadores y monitores
+A continuación habrá una práctica sobre ordenadores y monitores (Funcionando, operativos, comprados)
 
-A continuación habrá: Excel, Word, Power point y un diseño de un menu de tienda.
+[Archivo Excel](./trabajos/PracticaExcelDatos.xlsx)
 
-[Archivo Excel](./trabajos/GestióndeUsuarios.docx)
+## Practica de Herramientas de comprobación e instalación
 
 [Archivo Power Point](./trabajos/Herramientascomprobacióndeinstalaciónyderedes.pptx)
 
-[Archivo Menu de Tienda](./trabajos/LibreOffice_letro_de_Tienda.odg)
+## Letrero de Tienda de Napolitantas
+
+[Archivo Menu de Tienda](./trabajos/LibreOfficeTiendadeNapolitanas.odg)
+
+## Gestión de Usuarios en Windows
 
 [Archivo Word 1](./trabajos/GestióndeUsuarios.docx)
+
+## Información sobre un Fiesta o Evento
 
 [Archivo Word 2](./trabajos/TodalainformacióndelaFiesta.docx)
