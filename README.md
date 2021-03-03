@@ -44,6 +44,8 @@
 * Me gusta mucho limpiar en mis tiempos libres, el orden en general.
 Escucho música la gran parte de mi tiempo y libre y la compongo.
 Salír a tomar el aire o bien jugar un rato a la consola. Leer sobre la historia de Grecia o Egipto.
+Aquí dejo algunos datos personales para conocerme un poco más.
 [Link de mis videos favoritos](videos.md)
+[Link de Mis coches favoritos](fotos.md)
 
 
