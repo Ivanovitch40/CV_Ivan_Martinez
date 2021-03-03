@@ -38,3 +38,5 @@
 
 ## Nº 1 Pagani Huarya
 ![Pagani Huarya](https://www.clicacoches.com/wp-content/uploads/2016/05/pagani-huayra-pearl-6-1.jpg?x37762)
+
+[Volver al Curriculum](https://ivanovitch40.github.io/CV_Ivan_Martinez/)
